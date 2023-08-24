@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ck
 Description💡
 Brace yourselves, Webpack is comming
@@ -34,3 +35,6 @@ Files🗃️
 2. Adding CSS & Images
 3. Dev servers, modules, and tree shaking
 
+=======
+file
+>>>>>>> 0eeb038ad4594c1035fdf735ff2f55d99064bd14
